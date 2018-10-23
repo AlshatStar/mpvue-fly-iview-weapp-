@@ -1,0 +1,9 @@
+{
+    "navigationBarTitleText": "主机概览",
+    "usingComponents": {
+        "i-button": "../../../static/iview/button/index",
+        "i-icon": "../../../static/iview/icon/index",
+        "i-tab-bar": "../../../static/iview/tab-bar/index",
+        "i-tab-bar-item": "../../../static/iview/tab-bar-item/index"
+    }
+}
